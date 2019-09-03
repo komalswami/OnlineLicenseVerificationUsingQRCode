@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<script>
+		</script>
+	</head>
+	<body>
+		<%
+			session.invalidate();
+			response.sendRedirect("index.html");
+		%>
+	</body>
+</html>

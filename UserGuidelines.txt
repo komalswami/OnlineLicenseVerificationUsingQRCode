@@ -1,0 +1,22 @@
+======================================USER GUIDELINES======================================
+
+---Sign Up---
+User can only signup if he/she have an account in RTO(dummy) database.
+The email will be the username while logging in.
+
+---Login---
+Login to view the profile.
+If you forget the password then got to 'Reset Password'->'I do not remember my password'
+If the username exists then you can view your profile.
+Scan the QR code.
+Click on the given link.
+Download/View the PDF and enter your profile password to view the PDF.
+Click on 'Upadate' button if you have changed your license in RTO database.
+Click on 'Delete' button to delete the account.
+Click on 'Logout' button to logout from the profile.
+
+---Reset Password---
+If you want to change password go to Login window and click on 'Reset password'
+Enter your current password and then you can set new password.
+
+===========================================================================================

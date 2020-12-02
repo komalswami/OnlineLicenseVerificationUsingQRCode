@@ -3,8 +3,7 @@ This Project is based on online license verification using QR code in which a du
 
 <h2 align="center"> screenshots </h2>
 
-<img src="https://github.com/komalswami/OnlineLicenseVerificationUsingQRCode/blob/master/ss/pro1.png" width="400"/>
-<img src="https://github.com/komalswami/OnlineLicenseVerificationUsingQRCode/blob/master/ss/pro1.png" width="400"/>
+<img src="https://github.com/komalswami/OnlineLicenseVerificationUsingQRCode/blob/master/ss/pro1.png" width="400"/> <img src="https://github.com/komalswami/OnlineLicenseVerificationUsingQRCode/blob/master/ss/pro1.png" width="400"/>
 
 ![pro1](https://github.com/komalswami/OnlineLicenseVerificationUsingQRCode/blob/master/ss/pro1.png)
 ![pro1](https://github.com/komalswami/OnlineLicenseVerificationUsingQRCode/blob/master/ss/pro2.png)
